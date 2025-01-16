@@ -1,0 +1,342 @@
+,LEAD_TYPE_CD,Lead Description,product_nm,PROPOSITION
+0,AKINT,BB Away Payment - INT Child 1,,Credit Card Balance Transfer (Interstitial)
+1,AOINT,BB Headroom - INT Child 1,,Credit Card Balance Transfer (Interstitial)
+2,ASINT,Asset Finance Refi INT,Car Finance,Asset Finance Car Loan - REFI - (Interstitial)
+3,ASINT,Asset Finance Refi INT,Loans - New,Asset Finance Car Loan - REFI - (Interstitial)
+4,AWINT,Struct Lend Car Loan Refi INT,Car Finance,Structured Lending Car Loan - REFI - (Interstitial)
+5,AWINT,Struct Lend Car Loan Refi INT,Loans - New,Structured Lending Car Loan - REFI - (Interstitial)
+6,BAINT,Fully Personalised Recent SVR,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+7,BC101,RTIM BT Broadcast Message - Not Personalised,,Credit Card Balance Transfer
+8,BC103,RTIM Loan Refinance Broadcast Message - Not Personalised,Loans - New,Loan Refinance (Hyperlink)
+9,BC105,RTIM Loan Refinance Broadcast Message - EAL Test,Loans - New,Loan Refinance (Hyperlink)
+10,BC106,RTIM Loan Refinance Broadcast Message - EAL Control,Loans - New,Loan Refinance (Hyperlink)
+11,BC112,Non Tailored Messaging - Creditworthiness ,Credit Cards,"Non-tailored messenging, credit worthiness"
+12,BC113,Non Tailored Messaging - Loan Calculator,Loans - New,Loan Calculator Non Tailored Marketing
+13,BC114,Non-Tailored Credit Card Eligibility Lead,Credit Cards,Credit Card Eligibility - Non Tailored Marketing
+14,BC115,Non-Tailored Marketing Mortgages Calculator Lead,Mortgages Application,Non Tailored Messaging  Mortgages
+15,BC116,Non-Tailored Marketing - Car Finance Lead,Loans - New,Car Finance Calculator - Non-tailored Marketing
+16,BCBT1,BTMT offer (Dual/triple/quad) - Explanatory,,Credit Card Balance Transfer
+17,BCBT2,BT Offer (BT/Double BT) - Explanatory,,Credit Card Balance Transfer and Money Transfer
+18,BCBT3,"Standard offer (Open Credit Card, no BT Offer) - Not Personalised",,Credit Card Balance Transfer
+19,BIINT,Fully Personalised FRED,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+20,BMINT,LoanAcq Loan Away IB INT Perso,Loans - New,Loan Acquisition - Aligned (Interstitial)
+21,BNINT,LoanAcq Loan Away IB INT Perso,Loans - New,Loan Acquisition - Aligned (In
+22,BP001,Bank Led Timely BT and MT Offer,,Credit Card Balance Transfer (Interstitial)
+23,BP002,Bank Led Timely BT Only Offer,,Credit Card Balance Transfer (Interstitial)
+24,BP003,Flattened lead Aligned Acq INTBB/BC/BD & BF Combined,Credit Cards,Card Acquisition - Aligned (Interstitial)
+25,BP005,Customer Led Refinance (int) - Loan Refinance,Loans - New,Loan Refinance (Interstitial)
+26,BP006,Customer Led Aligned Acq (Int) - Loan Acq - CLOVA,Loans - New,Loan Acquisition - Aligned (Interstitial)
+27,BP007,Customer Led Super Prime Loan Acquisition,Loans - New,Loan Acquisition - Aligned (Interstitial)
+28,BP009,Customer Led FA Acquisition and CLOVA,Mortgages Application,Mortgage Further Advance Acquisition (Interstitial)
+29,BP017,Customer Led Aligned Acquisition (Int) - Loan Acq,Loans - New,Loan Acquisition - Aligned (Interstitial)
+30,BP023,Cust Led FTB Acq CLOVA and   Conversion Non-Club,Mortgages Application,Mortgage First Time Buyer Acqu
+31,BP025,Credit Worthiness Big Prompt,NP - Credit Worthiness,Credit Worthiness (Interstitial)
+32,BP026,Credit Worthiness Re-Engagement INT,NP - Credit Worthiness,Credit Worthiness (Interstitial)
+33,BP033,Credit Worthiness Registered 365 Days Anniversary,NP - Credit Worthiness,Credit Worthiness (Interstitial)
+34,BP034,Credit Worthiness Registered 365 Days Anniversary,NP - Credit Worthiness,Credit Worthiness (Interstitial)
+35,BP035,Big Prompt NMI / Service Lead just for if registered for service for 365 days ,NP - Credit Worthiness,Credit Worthiness (Interstitial)
+36,BP039,CC Cycle 1 Arrears INT not vulnerable,Credit Cards,Arrears - Credit Cards (INT)
+37,BP040,CC Cycle 1 Arrears vulnerable INT,Credit Cards,Arrears - Credit Cards (INT)
+38,BP041,Customers that have been active in the last 90 days for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness (Interstitial)
+39,BP042,Customers that have been inactive in the last 90 days for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness (Interstitial)
+40,BP043,NMI Customers that have have agreed to IB service for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness (Interstitial)
+41,BP044,CC Cycle 2 Arrears INT not vulnerable,Credit Cards,Arrears - Credit Cards (INT)
+42,BP045,CC Cycle 2 Arrears vulnerable INT,Credit Cards,Arrears - Credit Cards (INT)
+43,BP048,MBNA 2nd Loan IB INT,Loans - New,Loan Refinance (Interstitial)
+44,BP049,MCWE Acq LTB IB Tier E Interstitial,Credit Cards,MCWE Card Acquisition - Interstitial
+45,BP050,MCWE CC IB Acquisition Interstitial,Credit Cards,MCWE Card Acquisition - Second Card - Interstitial
+46,BP051,MCWE 2ND Card IB Acquisition Interstitial,Credit Cards,MCWE Card Acquisition - Second Card - Interstitial
+47,BP052,CC Cycle 1 Arrears INT not vulnerable,Credit Cards,Arrears - Credit Cards (INT)
+48,BP056,Cycles 3-5 CC Arrears INT,Credit Cards,Arrears - Credit Cards (INT)
+49,BP057,Cycles 3-5 CC Arrears Vulnerable INT,Credit Cards,Arrears - Credit Cards (INT)
+50,BP075,Card Acq INT Bau,Credit Cards,Card Acquisition - Aligned (Interstitial)
+51,BP076,Card Acq INT PERSO,Credit Cards,Card Acquisition - Aligned (Interstitial)
+52,BP077,2nd Card INT Bau,Credit Cards,Card Acquisition - Second Card and Trade (Interstitial)
+53,BP078,2nd Card INT PERSO,Credit Cards,Card Acquisition - Second Card and Trade (Interstitial)
+54,BP080,Loan Retargeting Child 1 BAU INT,Loans - New,Loan Acquisition - Aligned
+55,BP080,Loan Retargeting Child 1 BAU INT,Loans - New,Loan Acquisition - Aligned
+56,BP082,Loan Retargeting Child 2 INT PERSO,Loans - New,Loan Acquisition - Aligned (Interstitial)
+57,BP092,Cycle 1 Audience 1 and 3 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+58,BP093,Cycle 1 Audience 2 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+59,BP094,Cycle 2 Audience 1 and 3 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+60,BP095,Cycle 2 Audience 2 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+61,BP096,Cycle 3 Audience 1 and 3 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+62,BP097,Cycle 3 Audience 2 Loan Arrears Interstitial,NP - Arrears - Loans,Arrears - Loans (INT)
+63,BP098,REMO GT 18 Payments,Mortgages Application,Mortgage Remortgage Acquisitio
+64,BP103,OCF Super Prime Interstitial HAL,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+65,BP105,OCF Comparison Tool Lead INT,Car Finance,Asset Finance Car Loan - Acqui
+66,BP106,STL Comparison Tool Lead INT,Car Finance,Structured Lending Car Loan - 
+67,BP112,OCF Super Prime LTB INT,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+68,BPINT,Fully Personalised FRED,,Credit Card Balance Transfer (Interstitial)
+69,BT019,Bank Led Non Timely BT Only,,Credit Card Balance Transfer
+70,BT022,Balance Transfer Service Lead,,Credit Card Balance Transfer
+71,BT034,Bank Led Non Timely Quad BT MT Offer,,Credit Card Balance Transfer
+72,BT067,BB Away Payment - O-P Child 1,,Credit Card Balance Transfer
+73,BT082,BB Headroom - O-P Child 1,,Credit Card Balance Transfer
+74,BT094,BT into LBG - O-P Child 1,,Credit Card Balance Transfer
+75,BT100,Bank Led Timely BT Only Offer,,Credit Card Balance Transfer
+76,BZINT,Fully Personalised FRED Mass Affluent,Mortgages Application,Mortgage Remortgage Acquisitio
+77,CAINT,Fully Personalised FRED New MA ChildLead,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+78,CC004,Customer Led Aligned Acquisition CLOVA,Credit Cards,Card Acquisition - Aligned
+79,CC055,Card Acquisition- Travel,Credit Cards,Card Acquisition - Aligned
+80,CC058,Credit Card Rotation,NP - CC Service Rotation,CC Service Rotation
+81,CC077,CC Acq Cashback IB Child 1 O-P,Credit Cards,Card Acquisition - Aligned
+82,CC100,Aligned Acquisition Flattened lead CC001/2 and 16,Credit Cards,Card Acquisition - Aligned
+83,CC104,2nd Card cashback offer CC with PCA,Credit Cards,Card Acquisition - Second Card and Trade
+84,CC105,2nd Card cashback offer CC no PCA,Credit Cards,Card Acquisition - Second Card and Trade
+85,CC106,EMOB BT Lead On Page MBNA,Credit Cards,Credit Card EMOB Spend
+86,CC107,EMOB BT Lead on page Heritage,Credit Cards,Credit Card EMOB Spend
+87,CC108,contextual cards lead targeting aligned acq aud - not personalised,Credit Cards,Card Acquisition - Aligned
+88,CC130,Contextual Card Lead - Personalised - Away Card Payment,Credit Cards,Card Acquisition - Aligned
+89,CC133,MCWE Acq LTB Tier E,Credit Cards,MCWE Card Acquisition
+90,CC135,MCWE CC IB Acquisition LTB and HAL,Credit Cards,MCWE Card Acquisition
+91,CC136,MCWE 2ND Card IB Acquisition,Credit Cards,MCWE Card Acquisition - Second Card
+92,CC143,Card Acq OP Bau,Credit Cards,Card Acquisition - Aligned
+93,CC144,Card Acq OP PERSO,Credit Cards,Card Acquisition - Aligned
+94,CC145,2nd Card OP Bau,Credit Cards,Card Acquisition - Second Card and Trade
+95,CC146,2nd Card OP PERSO,Credit Cards,Card Acquisition - Second Card and Trade
+96,CC147,P1 Message Us - Credit Card Virtual Assistant Test,Credit Cards,Digital Service Leads - Setting up a Direct Debit to pay Credit Card
+97,CC149,CC Trades IB - On Page ,Credit Cards,Card Acquisition - Trade
+98,CCINT,Child Lead Payment change increase- potential SVR with Mass Aff,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+99,CEINT,Child Lead Dormant SVR with Mass Aff,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+100,CFA02,CC Cycle 1 Arrears Not vulnerable,Credit Cards,Arrears - Credit Cards
+101,CFA03,CC Cycle 1 Arrears Vulnerable,Credit Cards,Arrears - Credit Cards
+102,CFA04,CC Cycle 2 Arrears Not vulnerable,Credit Cards,Arrears - Credit Cards
+103,CFA05,CC Cycle 2 Arrears vulnerable,Credit Cards,Arrears - Credit Cards
+104,CFA06,Cycles 3-5 CC Arrears Non-Vulnerable,Credit Cards,Arrears - Credit Cards
+105,CFA07,Cycles 3-5 CC Arrears Vulnerable,Credit Cards,Arrears - Credit Cards
+106,CFA14,Cycle 1 Audience 1 and 3 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+107,CFA15,Cycle 1 Audience 2 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+108,CFA16,Cycle 2 Audience 1 and 3 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+109,CFA17,Cycle 2 Audience 2 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+110,CFA18,Cycle 3 Audience 1 and 3 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+111,CFA19,Cycle 3 Audience 2 Loan Arrears On Page,NP - Arrears - Loans,Arrears - Loans
+112,COV08,Self Service Tool - Arrears,NP - Arrears - Mortgages,Self Service Tool - Arrears
+113,CTC03,Cards contextual control,Credit Cards,Card Acquisition - Aligned
+114,CTC06,Contextual Loan Acq control message,Loans - New,Loan Acquisition - Aligned
+115,CTC08,Contextual Lead - Declined Loans into OCF ,Car Finance,Asset Finance Car Loan - Acquisition
+116,CW001,Credit Worthiness Engagement App,NP - Credit Worthiness,Credit Worthiness
+117,CW033,Customers who have registered for the service for 365 days and have been active in the past 90 days,NP - Credit Worthiness,Credit Worthiness
+118,CW034,Customers who have registered for the service for 365 days and have been inactive in the past 90 day,NP - Credit Worthiness,Credit Worthiness
+119,CW035,On Page NMI / Service Lead just for if registered for service for 365 days,NP - Credit Worthiness,Credit Worthiness
+120,CW036,Credit Card Declines Contextual - CWR non reg,Credit Cards,Credit Worthiness
+121,CW037,Credit Card Declines Contextual - CWR registered,Credit Cards,Credit Worthiness
+122,CW041,Customers that have have been active in last 90 days for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness
+123,CW042,Customers that have have been inactive in last 90 days for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness
+124,CW043,NMI Customers that have agreed to IB service for 90 day IB asset (Credit worthiness),NP - Credit Worthiness,Credit Worthiness
+125,CWR02,Credit Worthiness - Credit Cards,Credit Cards,Card Acquisition - Aligned
+126,CWR03,Credit Worthiness - Loans,Loans - New,Loan Refinance (Hyperlink)
+127,CWR07,OCF Creditworthiness ,Car Finance,Asset Finance Car Loan - Acquisition
+128,CWR08,Credit Worthiness - Mortgage FTB  Likely,Mortgages Application,Mortgage First Time Buyer Acquisition
+129,CWR09,Credit Worthiness - Mortgage FAD Likely,Mortgages Application,Mortgage Further Advance Acquisition
+130,CWR10,Credit Worthiness - Mortgage Remo Likely,Mortgages Application,Mortgage Remortgage Acquisition
+131,DSE27,CiFD - Pre arrears 1+ fees,NP - Pre Arrears,Customers In Financial Difficu
+132,DSE47,Cards Hub Awareness,NP - Cards Hub Awareness,Cards Hub Awareness
+133,DSE57,CiFD - Pre arrears 1+ fees,NP - Pre Arrears,Customers In Financial Difficu
+134,FLM01,Mortgage Acquisition - Lend A Hand (Borrower),Mortgages Application,Mortgage Acquisition - Lend a Hand
+135,FLM05,Family Boost Mort Acq Borrower,Mortgages Application,Mortgage Acquisition - Lend a Hand
+136,HF002,Mortgage FTB Association,Mortgages Application,Mortgage First Time Buyer Association
+137,HF004,Mortgage FTB Conversion,Mortgages Application,Mortgage First Time Buyer Acqu
+138,HF012,Club Lloyds FA Acquisition,Mortgages Application,Mortgage Further Advance Acquisition
+139,HF025,Customer Led Remortgage Acquisition,Mortgages Application,Mortgage Remortgage Acquisition
+140,HF031,Club Lloyds Remortgage Acquisition,Mortgages Application,Mortgage Remortgage Acquisition
+141,HF050,MTG Further Advance Trigger CL,Mortgages Application,Mortgage Further Advance Acquisition
+142,HF064,Remortgage Opp- Potential SVR,Mortgages Application,Mortgage Remortgage Acquisition
+143,HF067,Halifax mortgage prize draw eligible customers,Mortgages Prize Draw,Mortgage Prize Draw - New & Existing Customers
+144,HF068,Halifax mortgage prize draw potentially eligible customers,Mortgages Prize Draw,Mortgage Prize Draw - New & Existing Customers
+145,HF071,FTB Awareness Lead,Mortgages Application,Mortgage First Time Buyer Awareness
+146,HF072,Remo Awareness Lead,Mortgages Application,Mortgage REMO Awareness
+147,HF084,FAD Awareness Lead,Mortgages Application,Mortgage FAD Awareness
+148,HF095,Fully Personalised Recent SVR,Mortgages Application,Mortgage Remortgage Acquisition
+149,HF098,Fully Personalised Dormant SVR,Mortgages Application,Mortgage Remortgage Acquisition
+150,HF100,Remo- Dormant SVR and Dormant SVR Always on,Mortgages Application,Mortgage Remortgage Acquisitio
+151,HF101,Customer Led FA Acquisition CLOVA,Mortgages Application,Mortgage Further Advance Acquisition
+152,HF103,Fully Personalised FRED,Mortgages Application,Mortgage Remortgage Acquisition
+153,HF122,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition
+154,HF123,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition
+155,HF124,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition
+156,HF125,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition
+157,HF134,Land Registry Rem Non-Aligned,Mortgages Application,Mortgage Remo Non-aligned
+158,HF135,Rem Non-Aligned - Online Mortgage Interest,Mortgages Application,Mortgage Remo Non-aligned
+159,HF153,Remo Awareness - Child 1,Mortgages Application,Mortgage REMO Awareness
+160,HF154,Remo Awareness - Child 2,Mortgages Application,Mortgage REMO Awareness
+161,HF157,FTB NMI IB Lead ,Mortgages Application,Mortgage First Time Buyer Awareness
+162,HF157,FTB NMI IB Lead ,Mortgages Application,Mortgage First Time Buyer Awareness
+163,HF159,Customer Led Remortgage Acquisition New Mass Affluent,Mortgages Application,Mortgage Remortgage Acquisitio
+164,HF161,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition
+165,HF162,Land Registry Rem Non-Aligned,Mortgages Application,Mortgage Remo Non-aligned
+166,HF167,Fully Personalised FRED Mass Affluent,Mortgages Application,Mortgage Remortgage Acquisitio
+167,HF178,Customer Led Remortgage Acq New MA ChildLead,Mortgages Application,Mortgage Remortgage Acquisition
+168,HF179,Fully Personalised FRED New MA ChildLead,Mortgages Application,Mortgage Remortgage Acquisition
+169,HF206,Child Lead Recent/Potential SVR with Mass Aff,Mortgages Application,Mortgage Remortgage Acquisition
+170,HF208,"Child Lead Dormant SVLast Event- Payment Up,  >4 payments with Mass Aff",Mortgages Application,Mortgage Remortgage Acquisition
+171,HF209,Copy of HF123 Digital Asking Dismiss,Mortgages Application,Mortgage First Time Buyer Acquisition
+172,HF210,Copy of HF134 Digital Asking Dismiss,Mortgages Application,Mortgage Remo Non-aligned
+173,HF211,Remo Home Improvements,Mortgages Application,Mortgage Remortgage Acquisition
+174,HF212,FAD Home Improvements,Mortgages Application,Mortgage FAD Awareness
+175,HF219,REMO GT 18 Payments,Mortgages Application,Mortgage Remortgage Acquisition
+176,I0INT,ISA Help To Buy Service Interstitial,Mortgages Application,Mortgage Acquisition - Help to Buy (Interstitial)
+177,INT02,Mort Cess PT N3M INT SERVICE,Mortgages Application,Mortgage Cessation (Interstitial)
+178,INT0N,Follow-up-Mortgages,Mortgages Application,Mortgage First Time Buyer Acqu
+179,INT0Z,Follow-up-Mortgages,Mortgages Application,Mortgage Remortgage Acquisitio
+180,INT19,Card Acq - Aligned Follow Up,Credit Cards,Card Acquisition - Aligned Follow Up (Interstitial)
+181,INT87,Follow-up-Mortgages,Mortgages Application,Mortgage Further Advance Acquisition Follow Up (Interstitial)
+182,INTAV,Customer Led Remortgage Acquisition,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+183,INTBA,Club Lloyds Remortgage Acquisition,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+184,INTBR,Bank Led Activation,Credit Cards,Credit Card Activation following Acquisition (Interstitial)
+185,INTFK,Cards BT Follow Up,,Credit Card Balance Transfer Follow Up (Interstitial)
+186,INTFU,Clar/Flex Follow-Up,Loans - New,Loan Acquisition - Aligned (Interstitial)
+187,INTJH,Virtual card - natural exp,Credit Cards,Virtual Card -  Debit or Credi
+188,INTKO,MTG FA Trigger CL INT,Mortgages Application,Mortgage Further Advance Acquisition (Interstitial)
+189,INTKR,Loan Refinance Follow Up,Loans - New,Loan Refinance (Interstitial)
+190,INTLQ,Card Acquisition- Travel,Credit Cards,Card Acquisition - Aligned (Interstitial)
+191,INTLR,DWOW Fin Well Arrears (int),Credit Cards,Customers in Financial Difficu
+192,INTLS,DWOW Fin Well Overlimit (int),Credit Cards,Customers in Financial Difficulty - Card Test (INT)
+193,INTML,Lending: Non Aligned Loan Acquisition (Inter),Loans - New,Loan Acquisition - Non Aligned (Interstitial)
+194,INTNA,Remortgage Opp- Potential SVR,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+195,INTNI,Asset Finance Acq Conv INT,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+196,INTNJ,Struct Lend Car Loan Acq INT,Car Finance,Structured Lending Car Loan - Acquisition - (Interstitial)
+197,INTNL,Dormant SVR,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+198,INTOG,Mort Cess PT INT 3-6M SALES,Mortgages Application,Mortgage Cessation (Interstitial)
+199,INTOL,Mort Cess PT 3-6M INT SERVICE,Mortgages Application,Mortgage Cessation (Interstitial)
+200,INTOM,Mortgage Cessations IB INT 6M sales,Mortgages Application,Mortgage Cessation (Interstitial)
+201,INTON,Larger Loans IB INT,Loans - New,Loan Acquisition - Aligned (Interstitial)
+202,INTOO,Larger Loans IB INT,Loans - New,Loan Acquisition - Aligned (In
+203,INTOP,Rem Non-Aligned - Online Mortgage Interest INT,Mortgages Application,Mortgage Remo Non-aligned (Interstitial)
+204,INTOZ,Cessations IB INT 3M LTB Sales,Mortgages Application,Mortgage Cessation (Interstitial)
+205,INTPN,Customers eligible for Mortgage prize draw,Mortgages Prize Draw,Mortgage Prize Draw - New & Existing Customers (Interstitial)
+206,INTPO,Customers potentially eligible for Mortgage prize draw,Mortgages Prize Draw,Mortgage Prize Draw - New & Existing Customers (Interstitial)
+207,INTPS,Mort Cess PT N3M INT SALES,Mortgages Application,Mortgage Cessation (Interstitial)
+208,INTPT,Mort Cess Prod transf LTB INT,Mortgages Application,Mortgage Cessation (Interstitial)
+209,INTSI,Structured Lending Acq Big Prompt,Car Finance,Structured Lending Car Loan - Acquisition - (Interstitial)
+210,INTSJ,OCF Acq Big Prompt,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+211,INTSK,Asset Finance Car Loan CLOVA REFI INT,Loans - New,Asset Finance Car Loan - REFI - (Interstitial)
+212,INTSL,Structured Lending Car Loan CLOVA REFI INT,Car Finance,Structured Lending Car Loan - REFI - (Interstitial)
+213,INTSY,Asset Finance Car Loan CLOVA PCH INT,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+214,INTSZ,Structured Lending Car Loan CLOVA PCH INT,Car Finance,Structured Lending Car Loan - Acquisition - (Interstitial)
+215,INTTP,Remo Home Improvements Interstitial,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+216,INTTQ,FAD Home Improvements Interstitial,Mortgages Application,Mortgage Further Advance Acquisition (Interstitial)
+217,INTUP,Super Prime INTER Child 2 PERSO,Loans - New,Loan Acquisition - Aligned (Interstitial)
+218,INTUQ,Highly Likely INTER Child 2 PERSO,Loans - New,Loan Acquisition - Aligned (Interstitial)
+219,INTUR,Loan Eligible INTER Child 2 PERSO,Loans - New,Loan Acquisition - Aligned (Interstitial)
+220,INTVA,Lending Loan Refinance,Loans - New,Loan Refinance (Interstitial)
+221,INTVD,Lending Loan Refinance,Loans - New,Loan Refinance (Interstitial)
+222,INTVG,Lending Loan Refinance,Loans - New,Loan Refinance (Interstitial)
+223,INTVM,Lending Loan Acquisition,Loans - New,Loan Acquisition - Aligned (Interstitial)
+224,INTWB,Self Service Tool - Arrears INT,NP - Arrears - Mortgages,Self Service Tool - Arrears IN
+225,INTWD,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition (Interstitial)
+226,INTWE,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition (Interstitial)
+227,INTWF,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition (Interstitial)
+228,INTWG,Mortgage FTB Conversion Personalised,Mortgages Application,Mortgage First Time Buyer Acquisition (Interstitial)
+229,INTWV,CC Acq Cashback IB Child 1 INT,Credit Cards,Card Acquisition - Aligned (Interstitial)
+230,INTXC,Super Prime INTER Child 1 BAU,Loans - New,Loan Acquisition - Aligned (Interstitial)
+231,INTXE,Highly Likely INTER Child 1 BAU,Loans - New,Loan Acquisition - Aligned (Interstitial)
+232,INTXI,EMOB BT INT Lead on page MBNA,Credit Cards,Credit Card EMOB Spend (Interstitial)
+233,INTXJ,EMOB BT INT Lead on page Heritage,Credit Cards,Credit Card EMOB Spend (Interstitial)
+234,INTXL,Loan Eligible INTER Child 1 BAU,Loans - New,Loan Acquisition - Aligned (Interstitial)
+235,INTXP,INT - AF Car Loan - Acquisition - Rapid Audience,Car Finance,Asset Finance Car Loan - Acquisition - (Interstitial)
+236,INTXS,Customer Led Remortgage Acq New MA IB Child Lead,Mortgages Application,Mortgage Remortgage Acquisition (Interstitial)
+237,INTYJ,2nd card cashback CC with PCA INT,Credit Cards,Card Acquisition - Second Card and Trade (Interstitial)
+238,INTYK,2nd card cashback CC no PCA INT,Credit Cards,Card Acquisition - Second Card and Trade (Interstitial)
+239,INTZH,Bank Led Non Timely Quad BT MT Offer,,Credit Card Balance Transfer (Interstitial)
+240,MOR12,Mortgage Cess PT N3M SALES,Mortgages Application,Mortgage Cessation
+241,MOR13,Mortgage Cess Prod transf LTB,Mortgages Application,Mortgage Cessation
+242,MOR14,Mortgage Cess PT N3M SERVICE,Mortgages Application,Mortgage Cessation
+243,MOR15,Mort Cess PT 3-6M SALES,Mortgages Application,Mortgage Cessation
+244,MOR17,Mort Cess PT 3-6M SERVICE,Mortgages Application,Mortgage Cessation
+245,MOR18,Mortgage Cessations IB 6M sales,Mortgages Application,Mortgage Cessation
+246,MOR20,Cessations IB ON Page 3M LTB Sales,Mortgages Application,Mortgage Cessation
+247,MOR21,Mortgage Cess Prod transf HAL   EAL TEST,Mortgages Application,Mortgage Cessation
+248,MOR22,Mortgage Cess Prod transf HAL  EAL CONTROL,Mortgages Application,Mortgage Cessation
+249,MOR23,Mortgage Cess Prod transf LTB   EAL TEST,Mortgages Application,Mortgage Cessation
+250,MOR24,Mortgage Cess Prod transf LTB  EAL CONTROL,Mortgages Application,Mortgage Cessation
+251,MOR25,Mortgage Cess Prod transf HAL   EAL TEST,Mortgages Application,Mortgage Cessation
+252,MOR26,Mortgage Cess Prod transf HAL  EAL CONTROL,Mortgages Application,Mortgage Cessation
+253,NFINT,Asset Finance Refi Conv INT,Car Finance,Asset Finance Car Loan - REFI - (Interstitial)
+254,NFINT,Asset Finance Refi Conv INT,Loans - New,Asset Finance Car Loan - REFI - (Interstitial)
+255,NGINT,Struct Lend Car Loan Refi INT,Car Finance,Structured Lending Car Loan - REFI - (Interstitial)
+256,NGINT,Struct Lend Car Loan Refi INT,Car Finance,Structured Lending Car Loan - REFI - (Interstitial)
+257,NVT04,PHub Nav Tiles Existing CC holders - BT message,,Nav Tiles Balance Transfer
+258,NVT05,PHub Nav Tiles Existing Car Finance message,Car Finance,Nav Tiles Asset Finance
+259,NVT05,PHub Nav Tiles Existing Car Finance message,Car Finance,Nav Tiles Asset Finance
+260,NVT06,PHub Nav Tiles Existing Credit cards message,Credit Cards,Product Hub List Credit Card Message
+261,NVT06,PHub Nav Tiles Existing Credit cards message,Credit Cards,Product Hub List Credit Card Message
+262,NVT10,PHub Nav Tiles Existing Loans - acquisiton (no loan held) message,Loans - New,Product Hub List Loan and Car Message
+263,NVT10,PHub Nav Tiles Existing Loans - acquisiton (no loan held) message,Loans - New,Product Hub List Loan and Car Message
+264,NVT11,PHub Nav Tiles Existing Loans - refinance (customer holds loan) message,Loans - New,Nav Tiles Loan Refinance
+265,NVT11,PHub Nav Tiles Existing Loans - refinance (customer holds loan) message,Loans - New,Nav Tiles Loan Refinance
+266,NVT12,PHub Nav Tiles Mortgages message,Mortgages Application,Product Hub List Mortgages Message
+267,NVT12,PHub Nav Tiles Mortgages message,Mortgages Application,Product Hub List Mortgages Message
+268,OCF04,Asset Finance Car Loan - Acq,Car Finance,Asset Finance Car Loan - Acquisition
+269,OCF08,Asset Finance Car Loan - Refi,Car Finance,Asset Finance Car Loan - Refi
+270,OCF08,Asset Finance Car Loan - Refi,Loans - New,Asset Finance Car Loan - Refi
+271,OCF10,Asset Finance Refi IB OP,Car Finance,Asset Finance Car Loan - Refi
+272,OCF10,Asset Finance Refi IB OP,Loans - New,Asset Finance Car Loan - Refi
+273,OCF16,OCF Super Prime HAL On Page,Car Finance,Asset Finance Car Loan - Acquisition
+274,OCF17,OCF AF Car Loan - Acquisition - Rapid Audience,Car Finance,Asset Finance Car Loan - Acquisition
+275,OCF27,Asset Finance Car Loan CLOVA REFI,Loans - New,Asset Finance Car Loan - Refi
+276,OCF28,Asset Finance Car Loan CLOVA PCH IB,Car Finance,Asset Finance Car Loan - Acqui
+277,OCF31,Car Loan Declines into OCF Contextual ,Car Finance,Asset Finance Car Loan - Acquisition
+278,OCF33,OCF Comparison Tool Lead On Page,Car Finance,Asset Finance Car Loan - Acqui
+279,OCF34,OCF Super Prime LTB On Page,Car Finance,Asset Finance Car Loan - Acquisition
+280,OCF50,Asset Finance Car Loan - Acquisition,Car Finance,Asset Finance Car Loan - Acquisition
+281,PHL01,Product Hub List Loan and Car Message,Loans - New,Product Hub List Loan and Car Message
+282,PHL01,Product Hub List Loan and Car Message,Loans - New,Product Hub List Loan and Car Message
+283,PHL02,Product Hub List Credit Card Message,Credit Cards,Product Hub List Credit Card Message
+284,PHL02,Product Hub List Credit Card Message,Credit Cards,Product Hub List Credit Card Message
+285,PHL04,Product Hub List Mortgages Message,Mortgages Application,Product Hub List Mortgages Message
+286,PHL04,Product Hub List Mortgages Message,Mortgages Application,Product Hub List Mortgages Message
+287,PL022,Lending: Non Aligned Loan Acquisition,Loans - New,Loan Acquisition - Non Aligned
+288,PL086,Loan Refinance IBD rep,Loans - New,Loan Refinance (Hyperlink)
+289,PL094,Loan Refinance Follow Up,Loans - New,Loan Refinance
+290,PL100,Bank Led Refinance - Loan Refinance,Loans - New,Loan Refinance
+291,PL103,Customer Led Aligned Acquisition - Loan Acquisition,Loans - New,Loan Acquisition - Aligned
+292,PL104,Cust Led Aligned Acq- CLOVA - Loan Acq,Loans - New,Loan Acquisition - Aligned
+293,PL105,Customer Led Super Prime Loan Acquisition,Loans - New,Loan Acquisition - Aligned
+294,PL119,Loan Acq Loan Away IB OP Perso,Loans - New,Loan Acquisition - Aligned
+295,PL120,Loan Acq Loan Away IB OP Perso,Loans - New,Loan Acquisition - Aligned
+296,PL133,Propensity Only Highly Likely OP,Loans - New,Loan Acquisition - Aligned
+297,PL134,Propensity Only BAU OP,Loans - New,Loan Acquisition - Aligned
+298,PL135,Propensity Only Super Prime OP,Loans - New,Loan Acquisition - Aligned
+299,PL136,Customer led aligned loan acq for loan slider test,Loans - New,Loan Acquisition - Aligned
+300,PL137,Customer led aligned loan acq for loan slider control,Loans - New,Loan Acquisition - Aligned
+301,PL200,Lending Loan Refinance,Loans - New,Loan Refinance
+302,PL203,Lending Loan Refinance,Loans - New,Loan Refinance
+303,PL206,Lending Loan Refinance,Loans - New,Loan Refinance
+304,PL212,Lending Loan Acquisition,Loans - New,Loan Acquisition - Aligned
+305,PL230,Contextual Loan Acq Lead - Not Personalised,Loans - New,Loan Acquisition - Aligned
+306,PL234,Larger Loans IB On Page,Loans - New,Loan Acquisition - Aligned
+307,PL235,Larger Loans IB On Page,Loans - New,Loan Acquisition - Aligned
+308,PL237,Super Prime ON PAGE Child 1 BAU,Loans - New,Loan Acquisition - Aligned
+309,PL239,Highly Likely ON PAGE Child 1 BAU,Loans - New,Loan Acquisition - Aligned
+310,PL241,Loan Eligible ON PAGE Child 1 BAU,Loans - New,Loan Acquisition - Aligned
+311,PL242,Super Prime ON PAGE Child 2 PERSO,Loans - New,Loan Acquisition - Aligned
+312,PL243,Highly Likely ON PAGE Child 2 PERSO,Loans - New,Loan Acquisition - Aligned
+313,PL244,Loan Eligible ON PAGE Child 2 PERSO,Loans - New,Loan Acquisition - Aligned
+314,PL247,Copy of PL105 Digital Asking Dismiss,Loans - New,Loan Acquisition - Aligned
+315,PL250,MBNA 2nd Loan,Loans - New,Loan Refinance
+316,PL252,Loan Retargeting Child 1 BAU,Loans - New,Loan Acquisition - Aligned
+317,PL253,Loan Retargeting Child 2 PERSO,Loans - New,Loan Acquisition - Aligned
+318,PLS01,Product Hub List Loan and Car Static msg,Loans - New,Product Hub List Loan and Car Message
+319,PLS01,Product Hub List Loan and Car Static msg,Loans - New,Product Hub List Loan and Car Message
+320,PLS02,Product Hub List Credit Card Static msg,Credit Cards,Product Hub List Credit Card Message
+321,PLS02,Product Hub List Credit Card Static msg,Credit Cards,Product Hub List Credit Card Message
+322,PLS04,Product Hub List Mortgages Static msg,Mortgages Application,Product Hub List Mortgages Message
+323,PLS04,Product Hub List Mortgages Static msg,Mortgages Application,Product Hub List Mortgages Message
+324,QL017,QL Customers in financial difficulty,NP - Arrears - Mortgages,Self Service Tool - Arrears
+325,STL04,Structured Lending Car Loan,Car Finance,Structured Lending Car Loan - Acquisition
+326,STL08,Structured Lending Car Loan,Car Finance,Structured Lending REFI
+327,STL08,Structured Lending Car Loan,Car Finance,Structured Lending REFI
+328,STL10,Struct Lend Car Loan Refi IB OP,Car Finance,Structured Lending REFI
+329,STL10,Struct Lend Car Loan Refi IB OP,Car Finance,Structured Lending REFI
+330,STL16,Contextual Loan OCF Lead,Car Finance,Structured Lending Car Loan - 
+331,STL27,Structured Lending Car Loan CLOVA REFI,Car Finance,Structured Lending REFI
+332,STL28,Structured Lending Car Loan CLOVA PCH IB,Car Finance,Structured Lending Car Loan - Acquisition
+333,STL33,STL Comparison Tool Lead On Page,Car Finance,Structured Lending Car Loan - 
+334,STL50,Structured Lending Car Loan - Acq,Car Finance,Structured Lending Car Loan - Acquisition
+335,STL51,STRUCTURED LENDING DIGITAL LEAD PCH,Car Finance,Structured Lending Car Loan - Acquisition
+336,STL52,STRUCTURED LENDING DIGITAL LEAD REVIEW Loans Segment - Loans Creative,Car Finance,Structured Lending Car Loan - 
+337,STL53,STRUCTURED LENDING DIGITAL LEAD REVIEW 3 Ways To Pay - 3WTP v OCF v Loans,Car Finance,Structured Lending Car Loan - 
+338,STL54,STRUCTURED LENDING DIGITAL LEAD REVIEW 20 percent Control group STL50 creative,Car Finance,Structured Lending Car Loan - 
+339,SV114,ISA Help To Buy Service Onpage,Mortgages Application,Mortgage Acquisition - Help to Buy
+340,SV114,ISA Help To Buy Service Onpage,Mortgages Application,Mortgage Acquisition - Help to Buy
